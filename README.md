@@ -1,5 +1,5 @@
 # Connected Component Labeling
-Differentiates objects in a photo using image processing, hashel-kopelman two-pass, and hashing. For better results, use Ｏｔｓｕ greyscale thresholding.
+Differentiates components in a photo using image processing, hashel-kopelman two-pass, and hashing. Each labeled component is coloured a random colour.
 
 ## Screenshot
 ![alt original](https://raw.githubusercontent.com/Conphucious/ConnectedComponentLabeling/master/images/tree2.png)
